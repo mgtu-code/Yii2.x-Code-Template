@@ -2,6 +2,10 @@
 
 The Code Template is base on Yii 2.x advanced project Template，but it has change most project directory for product environment。
 
+####Yii version
+___
+Yii 2.0.8 
+
 ####feature
 ___
 1. support theme manager
