@@ -2,11 +2,11 @@
 
 The Code Template is base on Yii 2.x advanced project Template，but it has change most project directory for product environment。
 
-####Yii version
+####Yii Version
 ___
 Yii 2.0.8 
 
-####feature
+####Feature
 ___
 1. support theme manager
 2. init tool（add support clean directory function and change the user of directory）
